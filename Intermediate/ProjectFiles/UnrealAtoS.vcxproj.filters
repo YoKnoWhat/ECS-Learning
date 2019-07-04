@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\UnrealAtoS\UnrealAtoS.Target.cs" />
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\UnrealAtoS\UnrealAtoS.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{C558A2A7-5E6C-4455-AF6E-7EF7D6A7C061}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\UnrealAtoS\Private\UnrealAtoSApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{17E94609-AEC8-4C0C-9152-5CF49F1B5194}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\UnrealAtoS\Private\Mac\UnrealAtoSMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{82C819C5-1F37-42B2-96A3-8E15088ACB38}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\UnrealAtoS\Public\UnrealAtoSApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

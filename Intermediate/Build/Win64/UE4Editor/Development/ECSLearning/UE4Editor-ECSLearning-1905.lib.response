@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ECSLearning-1905.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Projects\ECSLearning\Intermediate\Build\Win64\UE4Editor\Development\ECSLearning\ECSLearning.cpp.obj"
+"F:\Projects\ECSLearning\Intermediate\Build\Win64\UE4Editor\Development\ECSLearning\MyCharacter.cpp.obj"
+"F:\Projects\ECSLearning\Intermediate\Build\Win64\UE4Editor\Development\ECSLearning\ECSLearning.init.gen.cpp.obj"
+"F:\Projects\ECSLearning\Intermediate\Build\Win64\UE4Editor\Development\ECSLearning\MyCharacter.gen.cpp.obj"
+"D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"F:\Projects\ECSLearning\Intermediate\Build\Win64\UE4Editor\Development\ECSLearning\UE4Editor-ECSLearning-1905.lib"

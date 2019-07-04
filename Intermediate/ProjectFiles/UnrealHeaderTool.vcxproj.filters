@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\UnrealHeaderTool.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{2F1C287F-FC18-477D-A328-1E3CDBCD1EC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Programs\UnrealHeaderTool\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\UnrealHeaderTool.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{11F2EE0D-A3C1-4DCE-A97A-97D24D345AC4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\BaseParser.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\BaseParser.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ClassDeclarationMetaData.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ClassDeclarationMetaData.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Classes.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Classes.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ClassMaps.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ClassMaps.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\CodeGenerator.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\FileLineException.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\FileLineException.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\GeneratedCodeVersion.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderParser.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderParser.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderProvider.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderProvider.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\IScriptGeneratorPluginInterface.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Manifest.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Manifest.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\NativeClassExporter.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ParserClass.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ParserClass.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ParserHelper.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\ParserHelper.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Scope.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Scope.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\SimplifiedParsingClassInfo.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\StringUtils.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\StringUtils.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnderlyingEnumType.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderTool.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderToolGlobals.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderToolMain.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealSourceFile.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealSourceFile.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealTypeDefinitionInfo.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Specifiers">
+      <UniqueIdentifier>{C079D4EE-7146-4FB7-9E80-7FF1001089A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\CheckedMetadataSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\CheckedMetadataSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\FunctionSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\FunctionSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\InterfaceSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\InterfaceSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\SpecifierArrays.cpp">
+      <Filter>Private\Specifiers</Filter>
+    </ClCompile>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\StructSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\StructSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\VariableSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\VariableSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <Filter Include="Public">
+      <UniqueIdentifier>{217D15F2-68E9-4633-95F0-AF245AD5CC87}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Public\IScriptGeneratorPluginInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{B7246C09-4B4E-4F3D-A45D-2F9B0F6C821D}</UniqueIdentifier>
+    </Filter>
+    <Manifest Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging.manifest">
+      <Filter>Resources</Filter>
+    </Manifest>
+    <Filter Include="Resources\UHTDebugging">
+      <UniqueIdentifier>{A3939E4E-D3E3-49F2-8075-FD6270727726}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\EnumOnlyHeader.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\StructOnlyHeader.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestDeprecatedObject.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestInterface.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestInterfaceObject.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestObject.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

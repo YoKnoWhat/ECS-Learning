@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C65872CF-42EF-3C91-1CE4-FC85B848FCC1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ECSLearning",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

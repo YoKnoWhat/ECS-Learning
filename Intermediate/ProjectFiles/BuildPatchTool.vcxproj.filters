@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{65D89B69-2F7B-42DE-A0DE-EF513DB9E084}</UniqueIdentifier>
+    </Filter>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{0FEDD3D0-6524-42D7-BAF3-17BD10BE0ACD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolMode.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\ToolModes">
+      <UniqueIdentifier>{4A489CED-29DB-44AE-ADE3-8C8B96AB74FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\CompactifyMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\DiffManifestMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\EnumerationMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\MergeManifestMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PackageChunksMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PatchGenerationMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\VerifyChunksMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{C26528A9-5466-4D34-BBC0-0BDB75568BE8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <Filter Include="Public\Interfaces">
+      <UniqueIdentifier>{3E0F74A5-1975-4B3E-AB00-50DC57CCBE42}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
+      <Filter>Public\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Public\ToolModes">
+      <UniqueIdentifier>{6AC7DC65-6615-4AEF-8633-A8F4F1B7F3ED}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\CompactifyMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\DiffManifestMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\EnumerationMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\MergeManifestMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PackageChunksMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PatchGenerationMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\VerifyChunksMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

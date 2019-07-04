@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ECSLearning.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{94D896AD-A1B5-42C7-86C9-9414C965047B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ECSLearning.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ECSLearningEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{08AE80B1-4881-4F0F-BDEE-96480F085D5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ECSLearning">
+      <UniqueIdentifier>{9722BD08-1F69-4744-BFBA-4386537EFE4E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ECSLearning\ECSLearning.Build.cs">
+      <Filter>Source\ECSLearning</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ECSLearning\ECSLearning.cpp">
+      <Filter>Source\ECSLearning</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECSLearning.h">
+      <Filter>Source\ECSLearning</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\MyGameModeBase.cpp">
+      <Filter>Source\ECSLearning</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\MyGameModeBase.h">
+      <Filter>Source\ECSLearning</Filter>
+    </ClInclude>
+    <Filter Include="Source\ECSLearning\ECS">
+      <UniqueIdentifier>{D65A12A7-5E90-406E-B460-391F481286A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\ECSComponent.cpp">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\ECSComponent.h">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\ECSEntity.cpp">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\ECSEntity.h">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\ECSSystem.cpp">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\ECSSystem.h">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\ECSWorld.cpp">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\ECSWorld.h">
+      <Filter>Source\ECSLearning\ECS</Filter>
+    </ClInclude>
+    <Filter Include="Source\ECSLearning\ECS\Attribute">
+      <UniqueIdentifier>{EC5565BE-94C3-49C4-9182-17615089F331}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Attribute\AttributeComponent.cpp">
+      <Filter>Source\ECSLearning\ECS\Attribute</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Attribute\AttributeComponent.h">
+      <Filter>Source\ECSLearning\ECS\Attribute</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Attribute\AttributeSystem.cpp">
+      <Filter>Source\ECSLearning\ECS\Attribute</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Attribute\AttributeSystem.h">
+      <Filter>Source\ECSLearning\ECS\Attribute</Filter>
+    </ClInclude>
+    <Filter Include="Source\ECSLearning\ECS\Avatar">
+      <UniqueIdentifier>{A8BB13A7-3B0F-486E-8764-AFF3864FCD27}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Avatar\AvatarComponent.cpp">
+      <Filter>Source\ECSLearning\ECS\Avatar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Avatar\AvatarComponent.h">
+      <Filter>Source\ECSLearning\ECS\Avatar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Avatar\AvatarSystem.cpp">
+      <Filter>Source\ECSLearning\ECS\Avatar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Avatar\AvatarSystem.h">
+      <Filter>Source\ECSLearning\ECS\Avatar</Filter>
+    </ClInclude>
+    <Filter Include="Source\ECSLearning\ECS\Battle">
+      <UniqueIdentifier>{CBF2A0CA-65DB-4EFD-8480-0ABE8472928F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Battle\BattleComponent.cpp">
+      <Filter>Source\ECSLearning\ECS\Battle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Battle\BattleComponent.h">
+      <Filter>Source\ECSLearning\ECS\Battle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Battle\BattleSystem.cpp">
+      <Filter>Source\ECSLearning\ECS\Battle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Battle\BattleSystem.h">
+      <Filter>Source\ECSLearning\ECS\Battle</Filter>
+    </ClInclude>
+    <Filter Include="Source\ECSLearning\ECS\Test">
+      <UniqueIdentifier>{CF8306B0-2160-4497-9F01-9C5B9CEE8C7F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Test\ECSTestComponent.cpp">
+      <Filter>Source\ECSLearning\ECS\Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Test\ECSTestComponent.h">
+      <Filter>Source\ECSLearning\ECS\Test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ECSLearning\ECS\Test\ECSTestSystem.cpp">
+      <Filter>Source\ECSLearning\ECS\Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ECSLearning\ECS\Test\ECSTestSystem.h">
+      <Filter>Source\ECSLearning\ECS\Test</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

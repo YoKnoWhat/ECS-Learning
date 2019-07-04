@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Target.cs" />
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{025371BF-B4BD-404B-B3C3-CD8400C05C9F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\DsymExporter\Private\DsymExporterApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{58D528F2-4517-4EF2-A7A4-4EFC8B56F720}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\DsymExporter\Private\Mac\DsymExporterMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{AF771EC0-9FEE-4D04-AFD0-8FF0D04CDF69}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\Mac\DsymExporter\Public\DsymExporterApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

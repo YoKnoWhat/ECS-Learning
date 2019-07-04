@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\MinidumpDiagnostics.Target.cs" />
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\MinidumpDiagnostics.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{9EAA6F82-3CF9-4ACC-B064-736868260D68}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Private\MinidumpDiagnosticsApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{92833CA7-2EC9-4625-8E81-734CB5D2227B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Private\Mac\MinidumpDiagnosticsMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{4085B24D-385B-4CE5-B6FB-12FBD79A3554}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Private\Windows\MinidumpDiagnosticsMainWindows.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{C45FE34A-A706-4F41-BD31-7201D20AF43F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Public\MinidumpDiagnosticsApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{2A296C4D-2E8E-4FCF-BEF5-0B2D8F855099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{CBFFE286-22A5-458F-8877-FDDF5B0CC08C}</UniqueIdentifier>
+    </Filter>
+    <Manifest Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Resources\Windows\Debug-PCLaunch-Win32.manifest">
+      <Filter>Resources\Windows</Filter>
+    </Manifest>
+    <Manifest Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Resources\Windows\Debug-PCLaunch-Win64.manifest">
+      <Filter>Resources\Windows</Filter>
+    </Manifest>
+    <None Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Resources\Windows\MinidumpDiagnostics.ico">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <Manifest Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Resources\Windows\PCLaunch-Win32.manifest">
+      <Filter>Resources\Windows</Filter>
+    </Manifest>
+    <Manifest Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Resources\Windows\PCLaunch-Win64.manifest">
+      <Filter>Resources\Windows</Filter>
+    </Manifest>
+    <ResourceCompile Include="D:\aerlin_toaa\toaa\SourceWork\Engine\Engine\Source\Programs\MinidumpDiagnostics\Resources\Windows\PCLaunch.rc">
+      <Filter>Resources\Windows</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
